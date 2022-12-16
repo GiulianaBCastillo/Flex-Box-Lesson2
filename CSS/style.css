@@ -1,8 +1,8 @@
 .logo {
    background: white;
-   height: 230 px;
+   height: 230px;
    background-image: url(../images/jakes-logo.png);
-   background-repeat no-repeat; 
+   background-repeat: no-repeat; 
    background-position:center; 
 }
 
@@ -28,18 +28,18 @@ padding: 20px;
 }
    
 .center a {
-    color: white
-    padding 10px
-    font-size 18 px
-    text-decoration none
-    font-family Arial
+    color: white;
+    padding: 10px;
+    font-size: 18 px;
+    text-decoration: none;
+    font-family: Arial;
 }
 
 .button {
-    color: black
-    font-size: 16px
-    padding: 15px
-    width: 50%
+    color: black;
+    font-size: 16px;
+    padding: 15px;
+    width: 50%;
 }
     .right button {
         background-color: yellow
