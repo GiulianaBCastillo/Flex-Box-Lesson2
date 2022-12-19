@@ -50,5 +50,17 @@ padding: 20px;
 }
 
 /* Column styles */
-
+.column {
+display: flex;
+height: 1200px;
+width: 800px;
+flex-direction:column;
+margin: 0 auto;
+}
+.meal1, .meal2, .meal3 {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+}
 /* Footer Styles */
